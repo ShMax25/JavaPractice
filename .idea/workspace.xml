@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cef03d2c-0342-4eb9-8d64-fd5ea7544ef0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MazeRunnerMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MazeRunnerMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MazeRunnerMax.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,8 +83,8 @@
       <file leaf-file-name="Maze.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Maze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="58" column="67" lean-forward="true" selection-start-line="58" selection-start-column="67" selection-end-line="58" selection-end-column="67" />
+            <state relative-caret-position="1000">
+              <caret line="163" selection-start-line="163" selection-end-line="163" />
               <folding>
                 <element signature="e#3929#3930#0" expanded="true" />
                 <element signature="e#3964#3965#0" expanded="true" />
@@ -95,8 +96,8 @@
       <file leaf-file-name="MazeRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MazeRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="870">
+              <caret line="58" column="43" lean-forward="true" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -104,8 +105,11 @@
       <file leaf-file-name="MazeRunnerMax.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MazeRunnerMax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="1007">
+              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/Crypto.java" />
         <option value="$PROJECT_DIR$/src/Proverka.java" />
         <option value="$PROJECT_DIR$/src/MazeRunner.java" />
+        <option value="$PROJECT_DIR$/src/MazeRunnerMax.java" />
       </list>
     </option>
   </component>
@@ -149,7 +154,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="-1058" />
     <option name="width" value="1907" />
     <option name="height" value="1058" />
@@ -209,6 +214,11 @@
       <module name="PracticeJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="MazeRunnerMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MazeRunnerMax" />
+      <module name="PracticeJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="OddsAndEvens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OddsAndEvens" />
       <module name="PracticeJava" />
@@ -221,11 +231,6 @@
     </configuration>
     <configuration name="Proverka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Proverka" />
-      <module name="PracticeJava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="TripPlaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TripPlaner" />
       <module name="PracticeJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -271,19 +276,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TripPlaner" />
       <item itemvalue="Application.OddsAndEvens" />
       <item itemvalue="Application.Proverka" />
       <item itemvalue="Application.Crypto" />
       <item itemvalue="Application.MazeRunner" />
+      <item itemvalue="Application.MazeRunnerMax" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MazeRunner" />
+        <item itemvalue="Application.MazeRunnerMax" />
         <item itemvalue="Application.Proverka" />
         <item itemvalue="Application.Crypto" />
         <item itemvalue="Application.Proverka" />
-        <item itemvalue="Application.OddsAndEvens" />
       </list>
     </recent_temporary>
   </component>
@@ -314,32 +319,32 @@
       <workItem from="1532313198999" duration="9728000" />
       <workItem from="1533270374655" duration="11808000" />
       <workItem from="1533330671059" duration="7428000" />
-      <workItem from="1533429439946" duration="1491000" />
+      <workItem from="1533429439946" duration="15234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101046000" />
+    <option name="totallyTimeSpent" value="114789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1058" width="1907" height="1058" extended-state="0" />
+    <frame x="146" y="-1898" width="1080" height="1898" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.35809523" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3575791" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50039065" side_tool="true" weight="0.32142857" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960938" weight="0.5104762" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960938" visible="true" weight="0.30649638" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298647" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14997378" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27552986" />
       <window_info anchor="right" id="Database" order="8" weight="0.32960597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -723,13 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Proverka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="907">
-          <caret line="155" column="7" selection-start-line="155" selection-start-column="7" selection-end-line="155" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OddsAndEvens.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -757,17 +755,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MazeRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/Proverka.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="907">
+          <caret line="155" column="7" selection-start-line="155" selection-start-column="7" selection-end-line="155" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Maze.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="58" column="67" lean-forward="true" selection-start-line="58" selection-start-column="67" selection-end-line="58" selection-end-column="67" />
+        <state relative-caret-position="1000">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
           <folding>
             <element signature="e#3929#3930#0" expanded="true" />
             <element signature="e#3964#3965#0" expanded="true" />
@@ -775,10 +773,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MazeRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="43" lean-forward="true" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MazeRunnerMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="1007">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
